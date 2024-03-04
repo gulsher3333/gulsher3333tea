@@ -1,0 +1,20 @@
+{
+  "name": "gulsher3333tea",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "gulsher3333",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/gulsher3333/gulsher3333tea.git"
+  }
+}
